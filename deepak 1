@@ -1,0 +1,354 @@
+<!doctype html>
+
+<html>
+<head>
+<title> this is the title sucker! </title>
+</head>
+  
+ 
+
+<body>
+<h1>the world end in 2012 </h1>
+
+ <hr/>
+<!-- this what happens to leave comment -->
+<p> bucky is the best ever. </p>
+
+<p> beuse he <em>loves bacon </em> so and so </p>
+
+<h2> this is the second header</h2>
+<p> this is the <strong>second </strong> paragraph. <br /> And now i am done with this. </p>
+ 
+
+
+</body>
+</html>
+
+<!-- lets create a link -->
+
+</body>
+<h2> create a link </h2>
+<hr/>
+
+<a href="http://google.com"> this is a link </a>
+   
+   </body>
+   </html>
+   
+   <hr/>
+   
+   <!-- creating a link to new page which is saved as second.html -->
+   
+   
+   <head>
+   <title> this is the title </title>
+   </head>
+   
+   <body>
+  
+   <a href = "second.html"> this will link to second page </a>
+   
+   
+   <!-- creating a link to section in your website/navatgation system, when you have secitons and sections and you want to go directly to that section, and when you click on it. it will directly take you there -->
+   
+   <hr/>
+   <head/>
+   <body>
+   <p>
+   <a href = "#farm" > Farming section </a>
+   </p>
+  <p> <a href ="#fighting"> figthing section </a></p>
+   <p><a href = "#worng places"> posing in wrong places</a></p>
+   
+   
+   <h3> <a name = "#wrong places"> </a>posting in wrong place </h3>
+   <p> you are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit. 
+   
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   </p>
+   
+   <h3> <a name = "farm" > </a>About farming in north </h3>
+   <p>my family is all about farming becuase they farmed before and so and so and htye wanna keep famring.
+and so and fuck and htat is the shit and all anout lafkhahsd.my family is all about farming becuase they farmed before and so and so and htye wanna keep famring.
+and so and fuck and htat is the shit and all anout lafkhahsd
+
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.</p>
+
+<h3> <a name = "fighting">fighting in north </h3>
+<p> why do people fight what is wrong with people fighing here and there. what for what is wrong with 
+people now a days. guns and guns and  stick and bones and nothing is torn. what is 
+wrong with people now a days. 
+
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   ou are not to post the same thread twice, be it in the same section and blah blach, this section is tallking about postingin
+   the wrong place and blha blha fuck that shit and shit.
+   what the fuck.
+   </p>
+
+</body>
+   
+   <hr/>
+   <!-- creating a link to your gmail -->
+   <a href = "mailto:ghimirey.d@gmail.com"> email deepak </a>
+   
+   <hr/>
+   <!-- hover over the link and see what pops up -->
+   <a href = "http://google.com" title = "awesome search engine"> Google </a>
+   
+   <hr/>
+   <!-- this will add image to your websites and when you hover over the image it will link to website you added also it will resize the image-->
+   
+   
+     <a href ="http://yahoo.com"> <img src = "myface.jpg" height="150"/></a>
+   
+   <hr/>
+   <hr/>
+   
+   
+   <!-- creating tables -->
+   
+<table border="1">
+		<tr>
+			<td>Fish </td>
+			<td>apple</td>
+			<td>tuna</td>
+		</tr>
+		<tr>
+			<td>tuba</td>  <!-- you can add images and other stuff inside the table -->
+			<td>ham chops</td>
+			<td>corn?</td>
+   
+		</tr>
+   
+</table>
+   
+    
+   <!-- creating table with header -->
+   
+   
+   <hr/>
+   <table border = "5">
+		<tr>
+			<th>name</th>
+			<th>Movie </th>
+			<th> who they love </th>
+			
+		</tr>
+		<tr>
+			<td>Natalie Portman</td>
+			<td>Garden state </td>
+			<td> Bucky </td>
+			
+		</tr>
+		
+		<tr>
+			<td>racheal mcadams</td>
+			<td>mean girls </td>
+			<td> Deepak </td>
+		
+		</tr>
+		</tables>
+  
+   <!-- tables with title and stuff in middle-->
+   <table border ="1">
+    <hr/>
+   <hr/>
+   
+		<tr>
+			<th colspan ="2"><h3>Odd people </h3></th>
+		</tr>
+		<tr>
+			<th>type </th>
+			<th> Reason </th>
+		</tr>
+		
+		<tr>
+			<td> Cat people </td>
+			<td> 17 cats is just too many </td>
+		</tr>
+		<tr>
+			<td> loud people</td>
+			<td> sure turn that music up, its only 3 am </td>
+			</tr>
+		
+		
+		</tr>
+	</table>
+   
+   <!-- creating a table with width -->
+   
+   <table border ="1" width ="500">
+   
+   
+    <hr/>
+   
+		<tr>
+			<th colspan ="2"><h3>Odd people </h3></th>
+		</tr>
+		<tr>
+			<th>type </th>
+			<th> Reason </th>
+		</tr>
+		
+		<tr>
+			<td> Cat people </td>
+			<td> 17 cats is just too many </td>
+		</tr>
+		<tr>
+			<td> loud people</td>
+			<td> sure turn that music up, its only 3 am </td>
+			</tr>
+		
+		
+		</tr>
+	</table>
+   
+   <!-- creating a table so that it takes up the width of 100% of websites -->
+   
+   <table border ="1" width ="100%">
+   
+   
+    <hr/>
+   
+		<tr>
+			<th colspan ="2"><h3>Odd people </h3></th>
+		</tr>
+		<tr>
+			<th>type </th>
+			<th> Reason </th>
+		</tr>
+		
+		<tr>
+			<td> Cat people </td>
+			<td> 17 cats is just too many </td>
+		</tr>
+		<tr>
+			<td> loud people</td>
+			<td> sure turn that music up, its only 3 am </td>
+			</tr>
+		
+		
+		</tr>
+	</table>
+   
+   
+   
+   
+ <!-- using cell padding -->
+ 
+<table border ="1" cellpadding ="10">
+   
+   
+    <hr/>
+   
+		<tr>
+			<th colspan ="2"><h3>Odd people </h3></th>
+		</tr>
+		<tr>
+			<th>type </th>
+			<th> Reason </th>
+		</tr>
+		
+		<tr>
+			<td> Cat people </td>
+			<td> 17 cats is just too many </td>
+		</tr>
+		<tr>
+			<td> loud people</td>
+			<td> sure turn that music up, its only 3 am </td>
+			</tr>
+		
+		
+		</tr>
+	</table>
+   
+   <!-- using cellspaceing, spacing within cells -->
+   <table border ="1" cellpadding ="10">
+   
+   
+    <hr/>
+   
+		<tr> 
+			<th colspan ="2"><h3>Odd people(cellpadding) </h3></th>
+			<!-- colspan stands for column span and says how many column do we want the data to span over -->
+			
+		</tr>
+		<tr>
+			<th>type </th>
+			<th> Reason </th>
+		</tr>
+		
+		<tr>
+			<td> Cat people </td>
+			<td> 17 cats is just too many </td>
+		</tr>
+		<tr>
+			<td> loud people</td>
+			<td> sure turn that music up, its only 3 am </td>
+			</tr>
+		
+		
+		</tr>
+	</table>
+   
+<table border ="1" cellspacing ="10">
+   
+   
+    <hr/>
+   
+		<tr>
+			<th colspan ="2"><h3>Odd people (cellspacing) </h3></th>
+		</tr>
+		<tr>
+			<th>type </th>
+			<th> Reason </th>
+		</tr>
+		
+		<tr>
+			<td> Cat people </td>
+			<td> 17 cats is just too many </td>
+		</tr>
+		<tr>
+			<td> loud people</td>
+			<td> sure turn that music up, its only 3 am </td>
+			</tr>
+		
+		
+		</tr>
+	</table>
+   
+
+   
+
+   
+  
+  
